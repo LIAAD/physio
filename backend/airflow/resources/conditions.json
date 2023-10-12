@@ -1,0 +1,2919 @@
+{
+    "upper cross syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "upper cross syndrome"
+    },
+    "shoulder impingement": {
+        "alias": [
+            "subacromial impingement"
+        ],
+        "acronyms": [],
+        "db_key": "shoulder impingement / subacromial impingement"
+    },
+    "chest strain": {
+        "alias": [
+            "pectoralis tear"
+        ],
+        "acronyms": [],
+        "db_key": "chest strain / pectoralis tear"
+    },
+    "osteolysis of the distal clavicle": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "osteolysis of the distal clavicle"
+    },
+    "brachial plexopathy": {
+        "alias": [
+            "brachial plexus impingement"
+        ],
+        "acronyms": [],
+        "db_key": "brachial plexopathy / brachial plexus impingement"
+    },
+    "thoracic outlet syndrome": {
+        "alias": [],
+        "acronyms": [
+            "tos"
+        ],
+        "db_key": "thoracic outlet syndrome"
+    },
+    "back strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "back strain"
+    },
+    "oblique strain": {
+        "alias": [],
+        "acronyms": [
+            "late stage recovery"
+        ],
+        "db_key": "oblique strain"
+    },
+    "ql strain": {
+        "alias": [
+            "quadratus lumborum strain"
+        ],
+        "acronyms": [],
+        "db_key": "ql strain / quadratus lumborum strain"
+    },
+    "mechanical low back pain": {
+        "alias": [],
+        "acronyms": [
+            "mlbp"
+        ],
+        "db_key": "mechanical low back pain"
+    },
+    "sacroiliac joint syndrome": {
+        "alias": [],
+        "acronyms": [
+            "sij"
+        ],
+        "db_key": "sacroiliac joint syndrome"
+    },
+    "lumbar facet syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar facet syndrome"
+    },
+    "thoracolumbar syndrome": {
+        "alias": [],
+        "acronyms": [
+            "tl syndrome"
+        ],
+        "db_key": "thoracolumbar syndrome"
+    },
+    "diastasis recti": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "diastasis recti"
+    },
+    "rotator cuff tendinitis": {
+        "alias": [
+            "tendinosis"
+        ],
+        "acronyms": [],
+        "db_key": "rotator cuff tendinitis / tendinosis"
+    },
+    "thoracic hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "thoracic hypomobility"
+    },
+    "text neck": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "text neck"
+    },
+    "dowager\u2019s hump": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "dowager\u2019s hump"
+    },
+    "cervicothoracic junction dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic junction dysfunction"
+    },
+    "rib joint irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rib joint irritation"
+    },
+    "costotransverse joint irritation": {
+        "alias": [
+            "costrovertebral joint irritation"
+        ],
+        "acronyms": [],
+        "db_key": "costotransverse joint irritation / costrovertebral joint irritation"
+    },
+    "thoracic spine hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "thoracic spine hypomobility"
+    },
+    "costovertebral irritation": {
+        "alias": [
+            "costotransverse irritation"
+        ],
+        "acronyms": [],
+        "db_key": "costovertebral irritation / costotransverse irritation"
+    },
+    "cervicothoracic joint dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic joint dysfunction"
+    },
+    "neck associated disorder": {
+        "alias": [
+            "neck pain"
+        ],
+        "acronyms": [],
+        "db_key": "neck associated disorder / neck pain"
+    },
+    "rotator cuff strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff strain"
+    },
+    "lats strain": {
+        "alias": [],
+        "acronyms": [
+            "only late stage recovery"
+        ],
+        "db_key": "lats strain"
+    },
+    "frozen shoulder": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "frozen shoulder"
+    },
+    "dynamic shoulder instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "dynamic shoulder instability"
+    },
+    "shoulder instability": {
+        "alias": [
+            "shoulder dislocation",
+            "shoulder subluxation"
+        ],
+        "acronyms": [],
+        "db_key": "shoulder instability / shoulder dislocation / shoulder subluxation"
+    },
+    "secondary rotator cuff tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "secondary rotator cuff tendinitis"
+    },
+    "strength training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "strength training"
+    },
+    "pectoralis major tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pectoralis major tendinitis"
+    },
+    "anterior deltoid strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior deltoid strain"
+    },
+    "biceps tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "biceps tendinitis"
+    },
+    "coracobrachialis tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "coracobrachialis tendinitis"
+    },
+    "rotator cuff tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff tendinopathy"
+    },
+    "myofascial pain syndrome iliopsoas": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial pain syndrome iliopsoas"
+    },
+    "hip impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip impingement"
+    },
+    "hip spine syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip spine syndrome"
+    },
+    "internal snapping hip syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "internal snapping hip syndrome"
+    },
+    "lower cross syndrome": {
+        "alias": ["leg"],
+        "acronyms": [],
+        "db_key": "lower cross syndrome"
+    },
+    "iliopsoas tendinitis": {
+        "alias": [
+            "iliopsoas tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "iliopsoas tendinitis / iliopsoas tendinopathy"
+    },
+    "functional hip impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional hip impingement"
+    },
+    "anterior chain dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior chain dysfunction"
+    },
+    "psoas major myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "psoas major myofascial pain syndrome"
+    },
+    "groin strain": {
+        "alias": [],
+        "acronyms": [
+            "late stage recovery"
+        ],
+        "db_key": "groin strain"
+    },
+    "iliopsoas tendinopathy": {
+        "alias": [
+            "iliopsoas tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "iliopsoas tendinopathy / iliopsoas tendinitis"
+    },
+    "running strength training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "running strength training"
+    },
+    "psoas strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "psoas strain"
+    },
+    "upper back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "upper back pain"
+    },
+    "rhomboids myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rhomboids myofascial pain syndrome"
+    },
+    "rib joint pain": {
+        "alias": [
+            "irritation"
+        ],
+        "acronyms": [],
+        "db_key": "rib joint pain / irritation"
+    },
+    "forward head posture": {
+        "alias": [
+            "upper cross syndrome"
+        ],
+        "acronyms": [],
+        "db_key": "forward head posture / upper cross syndrome"
+    },
+    "erector spinae strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "erector spinae strain"
+    },
+    "headaches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "headaches"
+    },
+    "cervical disc herniation": {
+        "alias": [
+            "cervical radiculopathy"
+        ],
+        "acronyms": [],
+        "db_key": "cervical disc herniation / cervical radiculopathy"
+    },
+    "quadratus lumborum strain": {
+        "alias": [
+            "myofascial pain syndrome"
+        ],
+        "acronyms": [],
+        "db_key": "quadratus lumborum strain / myofascial pain syndrome"
+    },
+    "acute low back pain": {
+        "alias": ["back"],
+        "acronyms": [],
+        "db_key": "acute low back pain"
+    },
+    "multifidus strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "multifidus strain"
+    },
+    "sport performance": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sport performance"
+    },
+    "glenohumeral labral tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glenohumeral labral tear"
+    },
+    "wrist impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "wrist impingement"
+    },
+    "tfcc tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tfcc tear"
+    },
+    "golfer\u2019s elbow": {
+        "alias": [
+            "medial epicondylitis"
+        ],
+        "acronyms": [],
+        "db_key": "golfer\u2019s elbow / medial epicondylitis"
+    },
+    "carpal tunnel syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "carpal tunnel syndrome"
+    },
+    "pronator teres syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pronator teres syndrome"
+    },
+    "cubital tunnel syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cubital tunnel syndrome"
+    },
+    "median nerve peripheral nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "median nerve peripheral nerve entrapment"
+    },
+    "tennis elbow": {
+        "alias": [
+            "lateral epicondylitis"
+        ],
+        "acronyms": [],
+        "db_key": "tennis elbow / lateral epicondylitis"
+    },
+    "posterior interosseous nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior interosseous nerve entrapment"
+    },
+    "wrist extensor tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "wrist extensor tendinitis"
+    },
+    "quadriceps strain": {
+        "alias": [],
+        "acronyms": [
+            "recovery stage"
+        ],
+        "db_key": "quadriceps strain"
+    },
+    "quadriceps tendinitis": {
+        "alias": [
+            "quadriceps tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "quadriceps tendinitis / quadriceps tendinopathy"
+    },
+    "jumper\u2019s knee": {
+        "alias": [
+            "runner\u2019s knee"
+        ],
+        "acronyms": [],
+        "db_key": "jumper\u2019s knee / runner\u2019s knee"
+    },
+    "itb syndrome": {
+        "alias": [],
+        "acronyms": [
+            "iliotibial band syndrome"
+        ],
+        "db_key": "itb syndrome"
+    },
+    "acl sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "acl sprain"
+    },
+    "knee meniscus tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "knee meniscus tear"
+    },
+    "achilles tear": {
+        "alias": [
+            "achilles tendinitis",
+            "achilles tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "achilles tear / achilles tendinitis / achilles tendinopathy"
+    },
+    "patellofemoral pain syndrome": {
+        "alias": [],
+        "acronyms": [
+            "pfps"
+        ],
+        "db_key": "patellofemoral pain syndrome"
+    },
+    "runner\u2019s knee": {
+        "alias": [
+            "jumper\u2019s knee"
+        ],
+        "acronyms": [],
+        "db_key": "runner\u2019s knee / jumper\u2019s knee"
+    },
+    "acl reconstructive surgery": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "acl reconstructive surgery"
+    },
+    "total hip replacement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "total hip replacement"
+    },
+    "femur fracture": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "femur fracture"
+    },
+    "patella fracture": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "patella fracture"
+    },
+    "strength and conditioning": {
+        "alias": [
+            "strength training"
+        ],
+        "acronyms": [],
+        "db_key": "strength and conditioning / strength training"
+    },
+    "hip bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip bursitis"
+    },
+    "glute tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glute tendinitis"
+    },
+    "chronic low back pain": {
+        "alias": ["back"],
+        "acronyms": [],
+        "db_key": "chronic low back pain"
+    },
+    "knocked knees": {
+        "alias": [],
+        "acronyms": [
+            "genu valgum"
+        ],
+        "db_key": "knocked knees"
+    },
+    "hip osteoarthritis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip osteoarthritis"
+    },
+    "hip labral tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip labral tear"
+    },
+    "external snapping hip syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "external snapping hip syndrome"
+    },
+    "greater trochanteric pain syndrome": {
+        "alias": [
+            "greater trochanter bursitis"
+        ],
+        "acronyms": [],
+        "db_key": "greater trochanteric pain syndrome / greater trochanter bursitis"
+    },
+    "glute amnesia": {
+        "alias": [
+            "gluteus amnesia"
+        ],
+        "acronyms": [],
+        "db_key": "glute amnesia / gluteus amnesia"
+    },
+    "pseudo sciatica": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pseudo sciatica"
+    },
+    "gluteal tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "gluteal tendinopathy"
+    },
+    "sij syndrome": {
+        "alias": [
+            "sacroiliac joint syndrome"
+        ],
+        "acronyms": [],
+        "db_key": "sij syndrome / sacroiliac joint syndrome"
+    },
+    "lower kinetic pain syndrome": {
+        "alias": ["leg"],
+        "acronyms": [],
+        "db_key": "lower kinetic pain syndrome"
+    },
+    "hip burisits": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip burisits"
+    },
+    "hoffa\u2019s fat pad impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hoffa\u2019s fat pad impingement"
+    },
+    "acl": {
+        "alias": [
+            "pcl",
+            "mcl",
+            "lcl tear"
+        ],
+        "acronyms": [],
+        "db_key": "acl / pcl / mcl / lcl tear"
+    },
+    "snapping hip syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "snapping hip syndrome"
+    },
+    "flat feet": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "flat feet"
+    },
+    "plantar fasciitis": {
+        "alias": [],
+        "acronyms": [
+            "late stage"
+        ],
+        "db_key": "plantar fasciitis"
+    },
+    "medial tibial stress syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "medial tibial stress syndrome"
+    },
+    "tibialis posterior tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tibialis posterior tendinopathy"
+    },
+    "posterior shin splints": {
+        "alias": [
+            "tibialis posterior tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "posterior shin splints / tibialis posterior tendinitis"
+    },
+    "functional over pronation of medial longitudinal arch": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional over pronation of medial longitudinal arch"
+    },
+    "peroneal tendinitis": {
+        "alias": [
+            "fibularis tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "peroneal tendinitis / fibularis tendinitis"
+    },
+    "anterior shin splints": {
+        "alias": [
+            "tibialis anterior tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "anterior shin splints / tibialis anterior tendinitis"
+    },
+    "inversion ankle sprain": {
+        "alias": [
+            "eversion ankle sprain"
+        ],
+        "acronyms": [],
+        "db_key": "inversion ankle sprain / eversion ankle sprain"
+    },
+    "chronic ankle sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "chronic ankle sprain"
+    },
+    "tibialis anterior tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tibialis anterior tendinopathy"
+    },
+    "acute ankle sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "acute ankle sprain"
+    },
+    "rotator cuff tear": {
+        "alias": [],
+        "acronyms": [
+            "late stage recovery"
+        ],
+        "db_key": "rotator cuff tear"
+    },
+    "posterior capsule impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior capsule impingement"
+    },
+    "ac joint sprain": {
+        "alias": [],
+        "acronyms": [
+            "late stage rehab"
+        ],
+        "db_key": "ac joint sprain"
+    },
+    "winged scapula": {
+        "alias": [
+            "scapular dyskinesia"
+        ],
+        "acronyms": [],
+        "db_key": "winged scapula / scapular dyskinesia"
+    },
+    "inferior border scapular winging": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "inferior border scapular winging"
+    },
+    "scoliosis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "scoliosis"
+    },
+    "supraspinatus strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "supraspinatus strain"
+    },
+    "deltoid strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deltoid strain"
+    },
+    "low back strain": {
+        "alias": ["back"],
+        "acronyms": [],
+        "db_key": "low back strain"
+    },
+    "piriformis syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "piriformis syndrome"
+    },
+    "hip adductor strain": {
+        "alias": [],
+        "acronyms": [
+            "only late stage recovery"
+        ],
+        "db_key": "hip adductor strain"
+    },
+    "pes anserine bursitis": {
+        "alias": [
+            "pes anserine irritation"
+        ],
+        "acronyms": [],
+        "db_key": "pes anserine bursitis / pes anserine irritation"
+    },
+    "hip adductor tendinitis": {
+        "alias": [
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "hip adductor tendinitis / tendinopathy"
+    },
+    "femoral nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "femoral nerve entrapment"
+    },
+    "pelvic floor dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pelvic floor dysfunction"
+    },
+    "mechanical back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "mechanical back pain"
+    },
+    "squat warm up": {
+        "alias": [
+            "squat hip shift"
+        ],
+        "acronyms": [],
+        "db_key": "squat warm up / squat hip shift"
+    },
+    "running warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "running warm up"
+    },
+    "pes anserinus irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pes anserinus irritation"
+    },
+    "adductor strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "adductor strain"
+    },
+    "meniscus tear": {
+        "alias": [],
+        "acronyms": [
+            "late stage rehab"
+        ],
+        "db_key": "meniscus tear"
+    },
+    "low back pain": {
+        "alias": ["back"],
+        "acronyms": [
+            "lumbar facet joint syndrome"
+        ],
+        "db_key": "low back pain"
+    },
+    "anterior pelvic tilt": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior pelvic tilt"
+    },
+    "hip hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip hypomobility"
+    },
+    "scapular dyskinesis": {
+        "alias": [
+            "dyskinesia"
+        ],
+        "acronyms": [],
+        "db_key": "scapular dyskinesis / dyskinesia"
+    },
+    "subscapularis tendinitis": {
+        "alias": [
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "subscapularis tendinitis / tendinopathy"
+    },
+    "shoulder dislocation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder dislocation"
+    },
+    "glenoid labral tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glenoid labral tear"
+    },
+    "rotator cuff tears": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff tears"
+    },
+    "warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "warm up"
+    },
+    "rhomboid strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rhomboid strain"
+    },
+    "trapezius strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "trapezius strain"
+    },
+    "greater trochanter pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "greater trochanter pain syndrome"
+    },
+    "adductor tendinitis": {
+        "alias": [
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "adductor tendinitis / tendinopathy"
+    },
+    "hip flexor tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip flexor tendinitis"
+    },
+    "hip flexor strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip flexor strain"
+    },
+    "hamstring strain": {
+        "alias": [],
+        "acronyms": [
+            "late stage recovery"
+        ],
+        "db_key": "hamstring strain"
+    },
+    "yoga butt": {
+        "alias": [
+            "proximal hamstrings tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "yoga butt / proximal hamstrings tendinopathy"
+    },
+    "hamstrings tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hamstrings tendinopathy"
+    },
+    "running warmup": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "running warmup"
+    },
+    "rectus femoris strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rectus femoris strain"
+    },
+    "inner thigh strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "inner thigh strain"
+    },
+    "mcl sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "mcl sprain"
+    },
+    "medial meniscus tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "medial meniscus tear"
+    },
+    "cervicothoracic junction syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic junction syndrome"
+    },
+    "quadratus lumborum repetitive strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "quadratus lumborum repetitive strain"
+    },
+    "thoraculumbar syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "thoraculumbar syndrome"
+    },
+    "de quervain\u2019s tenosynovitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "de quervain\u2019s tenosynovitis"
+    },
+    "texter\u2019s thumb": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "texter\u2019s thumb"
+    },
+    "trigger finger": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "trigger finger"
+    },
+    "finger sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "finger sprain"
+    },
+    "thumb sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "thumb sprain"
+    },
+    "non-specific low back pain": {
+        "alias": ["back"],
+        "acronyms": [],
+        "db_key": "non-specific low back pain"
+    },
+    "hamstrings chronic strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hamstrings chronic strain"
+    },
+    "baker\u2019s cyst": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "baker\u2019s cyst"
+    },
+    "hamstring tendinopathy": {
+        "alias": [
+            "hamstring tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "hamstring tendinopathy / hamstring tendinitis"
+    },
+    "sacroiliac syndrome": {
+        "alias": [
+            "sij syndrome"
+        ],
+        "acronyms": [],
+        "db_key": "sacroiliac syndrome / sij syndrome"
+    },
+    "facet joint syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "facet joint syndrome"
+    },
+    "posterior chain dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior chain dysfunction"
+    },
+    "apical chest breathing": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "apical chest breathing"
+    },
+    "rib flaring": {
+        "alias": [
+            "open scissor posture"
+        ],
+        "acronyms": [],
+        "db_key": "rib flaring / open scissor posture"
+    },
+    "brachial plexus impingement": {
+        "alias": [
+            "brachial plexopathy"
+        ],
+        "acronyms": [],
+        "db_key": "brachial plexus impingement / brachial plexopathy"
+    },
+    "stress management": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "stress management"
+    },
+    "cervical facet syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervical facet syndrome"
+    },
+    "subacromial impingement": {
+        "alias": [
+            "shoulder impingement"
+        ],
+        "acronyms": [],
+        "db_key": "subacromial impingement / shoulder impingement"
+    },
+    "labral tear": {
+        "alias": [],
+        "acronyms": [
+            "slap lesion"
+        ],
+        "db_key": "labral tear"
+    },
+    "slap lesion": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "slap lesion"
+    },
+    "posterior shin splins": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior shin splins"
+    },
+    "ankle sprain": {
+        "alias": [],
+        "acronyms": [
+            "atfl, tfl, cfl, ptfl sprain"
+        ],
+        "db_key": "ankle sprain"
+    },
+    "tibialis posterior tendinitis": {
+        "alias": [
+            "tendinosis",
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "tibialis posterior tendinitis / tendinosis / tendinopathy"
+    },
+    "achilles tendinopathy": {
+        "alias": [
+            "achilles tear"
+        ],
+        "acronyms": [],
+        "db_key": "achilles tendinopathy / achilles tear"
+    },
+    "calf strain": {
+        "alias": [
+            "gastrocnemius strain",
+            "soleus strain"
+        ],
+        "acronyms": [],
+        "db_key": "calf strain / gastrocnemius strain / soleus strain"
+    },
+    "posterior ankle impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior ankle impingement"
+    },
+    "bunions": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "bunions"
+    },
+    "achilles bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "achilles bursitis"
+    },
+    "ankle sprains": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ankle sprains"
+    },
+    "achilles tendinitis": {
+        "alias": [
+            "achilles tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "achilles tendinitis / achilles tendinopathy"
+    },
+    "pes planus": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pes planus"
+    },
+    "quadriceps tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "quadriceps tendinopathy"
+    },
+    "patellar tendinitis": {
+        "alias": [
+            "quadriceps tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "patellar tendinitis / quadriceps tendinitis"
+    },
+    "scapular winging": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "scapular winging"
+    },
+    "upper trapezius myalgia": {
+        "alias": [
+            "myofascial pain syndrome"
+        ],
+        "acronyms": [],
+        "db_key": "upper trapezius myalgia / myofascial pain syndrome"
+    },
+    "deadlift warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deadlift warm up"
+    },
+    "squat warmup": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "squat warmup"
+    },
+    "deadlift warmup": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deadlift warmup"
+    },
+    "glenohumeral joint labral tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glenohumeral joint labral tear"
+    },
+    "pectoralis strain": {
+        "alias": [
+            "tear"
+        ],
+        "acronyms": [],
+        "db_key": "pectoralis strain / tear"
+    },
+    "glute strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glute strain"
+    },
+    "glute tendinopathy": {
+        "alias": [
+            "glute tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "glute tendinopathy / glute tendinitis"
+    },
+    "sijsyndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sijsyndrome"
+    },
+    "ab strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ab strain"
+    },
+    "triceps tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "triceps tendinitis"
+    },
+    "pec strain": {
+        "alias": [
+            "chest strain"
+        ],
+        "acronyms": [],
+        "db_key": "pec strain / chest strain"
+    },
+    "triceps strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "triceps strain"
+    },
+    "triceps tendinopathy": {
+        "alias": [
+            "triceps tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "triceps tendinopathy / triceps tendinitis"
+    },
+    "olecranon bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "olecranon bursitis"
+    },
+    "costovertebral joint irritation": {
+        "alias": [
+            "costotransverse joint irritation"
+        ],
+        "acronyms": [],
+        "db_key": "costovertebral joint irritation / costotransverse joint irritation"
+    },
+    "t4 syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "t4 syndrome"
+    },
+    "low back disc bulge": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "low back disc bulge"
+    },
+    "segmental lumbar instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "segmental lumbar instability"
+    },
+    "upper body warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "upper body warm up"
+    },
+    "shoulder dislocation or subluxation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder dislocation or subluxation"
+    },
+    "lumbar instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar instability"
+    },
+    "shoulder flexion hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder flexion hypomobility"
+    },
+    "lats hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lats hypomobility"
+    },
+    "hip abduction hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip abduction hypomobility"
+    },
+    "core strengthening": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "core strengthening"
+    },
+    "long head biceps tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "long head biceps tendinopathy"
+    },
+    "scapular dyskinesia": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "scapular dyskinesia"
+    },
+    "medial border scapular winging": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "medial border scapular winging"
+    },
+    "hamstring tendinitis": {
+        "alias": [
+            "tendinopathy",
+            "tendinosis"
+        ],
+        "acronyms": [],
+        "db_key": "hamstring tendinitis / tendinopathy / tendinosis"
+    },
+    "greater trochanteric bursitis": {
+        "alias": [
+            "greater trochanter pain syndrome"
+        ],
+        "acronyms": [],
+        "db_key": "greater trochanteric bursitis / greater trochanter pain syndrome"
+    },
+    "femoral acetabular impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "femoral acetabular impingement"
+    },
+    "pcl sprain": {
+        "alias": [],
+        "acronyms": [
+            "posterior cruciate ligament strain"
+        ],
+        "db_key": "pcl sprain"
+    },
+    "cervicogenic headaches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicogenic headaches"
+    },
+    "cervicogenic vertigo": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicogenic vertigo"
+    },
+    "upper trapezius strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "upper trapezius strain"
+    },
+    "levator scapulae strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "levator scapulae strain"
+    },
+    "ankle hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ankle hypomobility"
+    },
+    "extensor retinaculum dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "extensor retinaculum dysfunction"
+    },
+    "tibialis anterior tendinitis": {
+        "alias": [
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "tibialis anterior tendinitis / tendinopathy"
+    },
+    "deep fibular nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deep fibular nerve entrapment"
+    },
+    "ankle impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ankle impingement"
+    },
+    "sacroiliac joint pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sacroiliac joint pain"
+    },
+    "segmental lumbar dynamic instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "segmental lumbar dynamic instability"
+    },
+    "myofascial pain syndrome quadratus lumborum": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial pain syndrome quadratus lumborum"
+    },
+    "obliques strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "obliques strain"
+    },
+    "serratus posterior inferior strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "serratus posterior inferior strain"
+    },
+    "spiral line dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "spiral line dysfunction"
+    },
+    "core workout": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "core workout"
+    },
+    "shoulder protraction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder protraction"
+    },
+    "costochondritis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "costochondritis"
+    },
+    "neck pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "neck pain"
+    },
+    "lumbar disc herniation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar disc herniation"
+    },
+    "lumbar radiculopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar radiculopathy"
+    },
+    "sacroiliac joint dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sacroiliac joint dysfunction"
+    },
+    "erector strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "erector strain"
+    },
+    "hip adductor tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip adductor tendinopathy"
+    },
+    "femoral triangle entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "femoral triangle entrapment"
+    },
+    "pulled groin": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pulled groin"
+    },
+    "infraspinatus strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "infraspinatus strain"
+    },
+    "dorsal wrist impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "dorsal wrist impingement"
+    },
+    "wrist instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "wrist instability"
+    },
+    "medial epicondylitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "medial epicondylitis"
+    },
+    "lateral epicondylitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lateral epicondylitis"
+    },
+    "biceps tendinopathy": {
+        "alias": [
+            "biceps tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "biceps tendinopathy / biceps tendinitis"
+    },
+    "biceps strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "biceps strain"
+    },
+    "lateral epicondylagia": {
+        "alias": [
+            "lateral epicondylitis"
+        ],
+        "acronyms": [],
+        "db_key": "lateral epicondylagia / lateral epicondylitis"
+    },
+    "pin entrapment": {
+        "alias": [
+            "posterior interosseous nerve entrapment"
+        ],
+        "acronyms": [],
+        "db_key": "pin entrapment / posterior interosseous nerve entrapment"
+    },
+    "posterior deltoid strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior deltoid strain"
+    },
+    "bench press warmup": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "bench press warmup"
+    },
+    "biceps long head strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "biceps long head strain"
+    },
+    "ac joint strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ac joint strain"
+    },
+    "medial epicondylagia": {
+        "alias": [
+            "medial epicondylitis"
+        ],
+        "acronyms": [],
+        "db_key": "medial epicondylagia / medial epicondylitis"
+    },
+    "knee osteoarthritis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "knee osteoarthritis"
+    },
+    "post surgical knee rehab": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "post surgical knee rehab"
+    },
+    "knee fat pad impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "knee fat pad impingement"
+    },
+    "chondromalacia patella": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "chondromalacia patella"
+    },
+    "acl tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "acl tear"
+    },
+    "post-surgical knee rehabilitation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "post-surgical knee rehabilitation"
+    },
+    "pcl": {
+        "alias": [
+            "acl",
+            "mcl",
+            "lcl sprain"
+        ],
+        "acronyms": [],
+        "db_key": "pcl / acl / mcl / lcl sprain"
+    },
+    "hip instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip instability"
+    },
+    "squat hip shift": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "squat hip shift"
+    },
+    "acute hamstrings strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "acute hamstrings strain"
+    },
+    "proximal biceps tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "proximal biceps tendinitis"
+    },
+    "biceps instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "biceps instability"
+    },
+    "hamstrings strain": {
+        "alias": [
+            "hamstrings chronic strain"
+        ],
+        "acronyms": [],
+        "db_key": "hamstrings strain / hamstrings chronic strain"
+    },
+    "hamstrings tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hamstrings tendinitis"
+    },
+    "brachialis strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "brachialis strain"
+    },
+    "long head biceps tendon instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "long head biceps tendon instability"
+    },
+    "lateral line dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lateral line dysfunction"
+    },
+    "gluteal amnesia": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "gluteal amnesia"
+    },
+    "glute amnesiua": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glute amnesiua"
+    },
+    "glutes strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "glutes strain"
+    },
+    "greater trochanter bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "greater trochanter bursitis"
+    },
+    "biceps tendon instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "biceps tendon instability"
+    },
+    "hunched shoulders": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hunched shoulders"
+    },
+    "mpfl sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "mpfl sprain"
+    },
+    "plyometrics": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "plyometrics"
+    },
+    "vertical jump training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "vertical jump training"
+    },
+    "accessory running training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "accessory running training"
+    },
+    "proximal hamstrings tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "proximal hamstrings tendinopathy"
+    },
+    "distal hamstrings tendinopathy": {
+        "alias": [
+            "tendinitis"
+        ],
+        "acronyms": [],
+        "db_key": "distal hamstrings tendinopathy / tendinitis"
+    },
+    "shin splins": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shin splins"
+    },
+    "high ankle sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "high ankle sprain"
+    },
+    "ankle bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ankle bursitis"
+    },
+    "pes cavus": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pes cavus"
+    },
+    "functional over pronation of medial arches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional over pronation of medial arches"
+    },
+    "scm myalgia": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "scm myalgia"
+    },
+    "sternocleidomastoid myalgia": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sternocleidomastoid myalgia"
+    },
+    "cervical radiculopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervical radiculopathy"
+    },
+    "cervicogenic headache": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicogenic headache"
+    },
+    "whiplash associated disorder": {
+        "alias": [],
+        "acronyms": [
+            "wad"
+        ],
+        "db_key": "whiplash associated disorder"
+    },
+    "rounded shoulders": {
+        "alias": [
+            "postural exercise"
+        ],
+        "acronyms": [],
+        "db_key": "rounded shoulders / postural exercise"
+    },
+    "at home workout": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "at home workout"
+    },
+    "pullup warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pullup warm up"
+    },
+    "latissimus dorsi strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "latissimus dorsi strain"
+    },
+    "dynamic wrist instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "dynamic wrist instability"
+    },
+    "subacromial bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "subacromial bursitis"
+    },
+    "rototor cuff strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rototor cuff strain"
+    },
+    "transverse humeral ligament instability": {
+        "alias": [
+            "biceps tendon instability"
+        ],
+        "acronyms": [],
+        "db_key": "transverse humeral ligament instability / biceps tendon instability"
+    },
+    "pectoralis minor strain": {
+        "alias": [
+            "pectoralis major strain"
+        ],
+        "acronyms": [],
+        "db_key": "pectoralis minor strain / pectoralis major strain"
+    },
+    "hip contracture": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip contracture"
+    },
+    "femoral anterior glide syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "femoral anterior glide syndrome"
+    },
+    "iliopsoas myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "iliopsoas myofascial pain syndrome"
+    },
+    "home exercise": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "home exercise"
+    },
+    "elbow instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "elbow instability"
+    },
+    "anconeus strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anconeus strain"
+    },
+    "postural strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "postural strain"
+    },
+    "general mobility flow": {
+        "alias": [
+            "general wellness"
+        ],
+        "acronyms": [],
+        "db_key": "general mobility flow / general wellness"
+    },
+    "medial meniscus irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "medial meniscus irritation"
+    },
+    "pes anserinus bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pes anserinus bursitis"
+    },
+    "squat variation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "squat variation"
+    },
+    "trapezius myalgia": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "trapezius myalgia"
+    },
+    "pull up warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pull up warm up"
+    },
+    "tmj syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tmj syndrome"
+    },
+    "scalenes myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "scalenes myofascial pain syndrome"
+    },
+    "neck strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "neck strain"
+    },
+    "cervical meniscoid irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervical meniscoid irritation"
+    },
+    "headache": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "headache"
+    },
+    "full body mobility routine": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "full body mobility routine"
+    },
+    "gluteus maximus tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "gluteus maximus tendinopathy"
+    },
+    "functional scoliosis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional scoliosis"
+    },
+    "proximal hamstring tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "proximal hamstring tendinitis"
+    },
+    "subscapularis strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "subscapularis strain"
+    },
+    "teres minor strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "teres minor strain"
+    },
+    "lateral deltoid strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lateral deltoid strain"
+    },
+    "long head biceps strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "long head biceps strain"
+    },
+    "coracobrachialis strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "coracobrachialis strain"
+    },
+    "proximal hamstrings tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "proximal hamstrings tendinitis"
+    },
+    "cervicothoracic irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic irritation"
+    },
+    "latissimus dorsi dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "latissimus dorsi dysfunction"
+    },
+    "cervicothoracic joint irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic joint irritation"
+    },
+    "squat related low back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "squat related low back pain"
+    },
+    "cervicothoracic junction irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic junction irritation"
+    },
+    "chronic neck pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "chronic neck pain"
+    },
+    "hallux rigidis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hallux rigidis"
+    },
+    "hallux valgus": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hallux valgus"
+    },
+    "metatarsophalangeal osteoarthritis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "metatarsophalangeal osteoarthritis"
+    },
+    "toe sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "toe sprain"
+    },
+    "turf toe": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "turf toe"
+    },
+    "hallux rigidus": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hallux rigidus"
+    },
+    "functional over pronation of the medial longitudinal arch": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional over pronation of the medial longitudinal arch"
+    },
+    "lumbar stenosis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar stenosis"
+    },
+    "medial collateral ligament sprain": {
+        "alias": [],
+        "acronyms": [
+            "mcl"
+        ],
+        "db_key": "medial collateral ligament sprain"
+    },
+    "post-surgical knee pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "post-surgical knee pain"
+    },
+    "osgood schlatter\u2019s disease": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "osgood schlatter\u2019s disease"
+    },
+    "vastus medialis oblique strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "vastus medialis oblique strain"
+    },
+    "biceps pulley dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "biceps pulley dysfunction"
+    },
+    "teres major strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "teres major strain"
+    },
+    "osgood-schlatter\u2019s disease": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "osgood-schlatter\u2019s disease"
+    },
+    "mechanical knee pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "mechanical knee pain"
+    },
+    "mcl tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "mcl tear"
+    },
+    "idiopathic scoliosis": {
+        "alias": [
+            "functional scoliosis"
+        ],
+        "acronyms": [],
+        "db_key": "idiopathic scoliosis / functional scoliosis"
+    },
+    "lcl tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lcl tear"
+    },
+    "superficial front line dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "superficial front line dysfunction"
+    },
+    "nonspecific low back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "nonspecific low back pain"
+    },
+    "core endurance": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "core endurance"
+    },
+    "cervical disc bulge": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervical disc bulge"
+    },
+    "rotatory cuff tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotatory cuff tear"
+    },
+    "functional over pronation of medial longitudinal arches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional over pronation of medial longitudinal arches"
+    },
+    "lower kinetic chain pain syndrome": {
+        "alias": ["leg"],
+        "acronyms": [],
+        "db_key": "lower kinetic chain pain syndrome"
+    },
+    "anterior shin splits": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior shin splits"
+    },
+    "superficial back line dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "superficial back line dysfunction"
+    },
+    "temporomandibular joint disorder": {
+        "alias": [],
+        "acronyms": [
+            "tmj disorder"
+        ],
+        "db_key": "temporomandibular joint disorder"
+    },
+    "temporomandibular joint syndrome": {
+        "alias": [],
+        "acronyms": [
+            "tmj syndrome"
+        ],
+        "db_key": "temporomandibular joint syndrome"
+    },
+    "bruxism": {
+        "alias": [],
+        "acronyms": [
+            "teeth grinding"
+        ],
+        "db_key": "bruxism"
+    },
+    "lockjaw": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lockjaw"
+    },
+    "median nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "median nerve entrapment"
+    },
+    "sport specific warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sport specific warm up"
+    },
+    "sport specific warm up - running, soccer, tennis, etc.": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sport specific warm up - running, soccer, tennis, etc."
+    },
+    "gluteus tendinitis": {
+        "alias": [
+            "tendinosis",
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "gluteus tendinitis / tendinosis / tendinopathy"
+    },
+    "sport specific warm up - running, soccer, tennis, etc": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sport specific warm up - running, soccer, tennis, etc"
+    },
+    "calisthenics training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "calisthenics training"
+    },
+    "lumbar hyperlordosis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar hyperlordosis"
+    },
+    "squat stability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "squat stability"
+    },
+    "gamer\u2019s thumb": {
+        "alias": [
+            "texter\u2019s thumb"
+        ],
+        "acronyms": [],
+        "db_key": "gamer\u2019s thumb / texter\u2019s thumb"
+    },
+    "radial nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "radial nerve entrapment"
+    },
+    "radial tunnel syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "radial tunnel syndrome"
+    },
+    "shoulder post-surgery recovery": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder post-surgery recovery"
+    },
+    "shoulder warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder warm up"
+    },
+    "dynamic shoulder impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "dynamic shoulder impingement"
+    },
+    "late stage recovery ankle sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "late stage recovery ankle sprain"
+    },
+    "return to sport test": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "return to sport test"
+    },
+    "squat related low back, hip, knee, or ankle pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "squat related low back, hip, knee, or ankle pain"
+    },
+    "pelvic obliquity": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pelvic obliquity"
+    },
+    "hip hiking": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip hiking"
+    },
+    "mcl": {
+        "alias": [
+            "pcl",
+            "lcl",
+            "acl tear"
+        ],
+        "acronyms": [],
+        "db_key": "mcl / pcl / lcl / acl tear"
+    },
+    "terrible triad tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "terrible triad tear"
+    },
+    "over pronation syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "over pronation syndrome"
+    },
+    "eversion ankle sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "eversion ankle sprain"
+    },
+    "acromioclavicular joint sprain": {
+        "alias": [
+            "ac joint sprain"
+        ],
+        "acronyms": [],
+        "db_key": "acromioclavicular joint sprain / ac joint sprain"
+    },
+    "hamstrings contracture": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hamstrings contracture"
+    },
+    "lateral pelvic tilt": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lateral pelvic tilt"
+    },
+    "1st rib dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "1st rib dysfunction"
+    },
+    "cervical rib": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervical rib"
+    },
+    "myofascial pain syndrome of upper trapezius": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial pain syndrome of upper trapezius"
+    },
+    "hip replacement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip replacement"
+    },
+    "posture": {
+        "alias": [],
+        "acronyms": [
+            "hunched shoulders"
+        ],
+        "db_key": "posture"
+    },
+    "posterior shoulder impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "posterior shoulder impingement"
+    },
+    "latissimus dorsi contracture": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "latissimus dorsi contracture"
+    },
+    "snapping scapula": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "snapping scapula"
+    },
+    "overhead squat warm up": {
+        "alias": [
+            "snatch warm up",
+            "jerk warm up"
+        ],
+        "acronyms": [],
+        "db_key": "overhead squat warm up / snatch warm up / jerk warm up"
+    },
+    "tfl tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tfl tendinopathy"
+    },
+    "pectoralis tendinitis": {
+        "alias": [
+            "tendinopathy"
+        ],
+        "acronyms": [],
+        "db_key": "pectoralis tendinitis / tendinopathy"
+    },
+    "strength training for parents": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "strength training for parents"
+    },
+    "back strength training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "back strength training"
+    },
+    "non-specifici low back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "non-specifici low back pain"
+    },
+    "metatarsalgia": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "metatarsalgia"
+    },
+    "functional pes planus": {
+        "alias": [],
+        "acronyms": [
+            "flat feet"
+        ],
+        "db_key": "functional pes planus"
+    },
+    "deltoid ligament sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deltoid ligament sprain"
+    },
+    "low back aches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "low back aches"
+    },
+    "myofascial neck pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial neck pain"
+    },
+    "morning mobility flow": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "morning mobility flow"
+    },
+    "acute neck pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "acute neck pain"
+    },
+    "latissimus dorsi stretch": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "latissimus dorsi stretch"
+    },
+    "shoulder pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder pain"
+    },
+    "morning stretches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "morning stretches"
+    },
+    "cooldown routine": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cooldown routine"
+    },
+    "related exercises": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "related exercises"
+    },
+    "strength & conditioning": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "strength & conditioning"
+    },
+    "late stage recovery rotator cuff tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "late stage recovery rotator cuff tear"
+    },
+    "late stage recovery shoulder impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "late stage recovery shoulder impingement"
+    },
+    "deadlift related low back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deadlift related low back pain"
+    },
+    "hamstrings strain or hamstrings tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hamstrings strain or hamstrings tendinopathy"
+    },
+    "pes anserine bursitis or irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pes anserine bursitis or irritation"
+    },
+    "thoracolumbar irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "thoracolumbar irritation"
+    },
+    "secondary mechanical shoulder pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "secondary mechanical shoulder pain"
+    },
+    "elevated first rib dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "elevated first rib dysfunction"
+    },
+    "upper trapezius myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "upper trapezius myofascial pain syndrome"
+    },
+    "l4-l5, l5-s1 lumbar disc herniation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "l4-l5, l5-s1 lumbar disc herniation"
+    },
+    "peripheral sciatic nerve entrapment": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "peripheral sciatic nerve entrapment"
+    },
+    "sciatica": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sciatica"
+    },
+    "disc bulge or bulging disc": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "disc bulge or bulging disc"
+    },
+    "slipped disc": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "slipped disc"
+    },
+    "prolapsed disc": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "prolapsed disc"
+    },
+    "herniated nucleus palposus": {
+        "alias": [],
+        "acronyms": [
+            "hnp"
+        ],
+        "db_key": "herniated nucleus palposus"
+    },
+    "ulnar nerve impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "ulnar nerve impingement"
+    },
+    "median nerve impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "median nerve impingement"
+    },
+    "myofascial pain syndrome upper trapezius": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial pain syndrome upper trapezius"
+    },
+    "cervicothoracic dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicothoracic dysfunction"
+    },
+    "knee valgus": {
+        "alias": [
+            "knocked knees"
+        ],
+        "acronyms": [],
+        "db_key": "knee valgus / knocked knees"
+    },
+    "anterior ankle impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior ankle impingement"
+    },
+    "full body warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "full body warm up"
+    },
+    "late stage recovery piriformis syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "late stage recovery piriformis syndrome"
+    },
+    "proximal hamstring tendinopathy or tear": {
+        "alias": [
+            "strain"
+        ],
+        "acronyms": [],
+        "db_key": "proximal hamstring tendinopathy or tear / strain"
+    },
+    "rotator cuff tear, tendinitis, or tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff tear, tendinitis, or tendinopathy"
+    },
+    "late stage recovery rotator cuff tear, tendinitis, or tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "late stage recovery rotator cuff tear, tendinitis, or tendinopathy"
+    },
+    "rotator cuff tear, tendinopathy, or tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff tear, tendinopathy, or tendinitis"
+    },
+    "rotator cuff tendinopathy or tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff tendinopathy or tendinitis"
+    },
+    "shoulder labral tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder labral tear"
+    },
+    "upper trapezius headaches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "upper trapezius headaches"
+    },
+    "first rib dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "first rib dysfunction"
+    },
+    "functional foot over pronation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional foot over pronation"
+    },
+    "hip hike": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip hike"
+    },
+    "lumbar facet joint syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lumbar facet joint syndrome"
+    },
+    "pronator quadratus dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pronator quadratus dysfunction"
+    },
+    "spondylolytic spondylolisthesis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "spondylolytic spondylolisthesis"
+    },
+    "grade 2 nad": {
+        "alias": [],
+        "acronyms": [
+            "neck associated disorder"
+        ],
+        "db_key": "grade 2 nad"
+    },
+    "whiplash": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "whiplash"
+    },
+    "peroneal strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "peroneal strain"
+    },
+    "dorsal foot pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "dorsal foot pain"
+    },
+    "extensor hallicus longus strain": {
+        "alias": [
+            "extensor digitorum longus strain"
+        ],
+        "acronyms": [],
+        "db_key": "extensor hallicus longus strain / extensor digitorum longus strain"
+    },
+    "patellar tendinopathy": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "patellar tendinopathy"
+    },
+    "hamstrings tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hamstrings tear"
+    },
+    "warm up routine": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "warm up routine"
+    },
+    "calf strains": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "calf strains"
+    },
+    "warm up exercise": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "warm up exercise"
+    },
+    "osgoode schlatter\u2019s disease": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "osgoode schlatter\u2019s disease"
+    },
+    "sport specific training": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "sport specific training"
+    },
+    "strengthening and conditioning": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "strengthening and conditioning"
+    },
+    "squat": {
+        "alias": [
+            "deadlift related low back pain"
+        ],
+        "acronyms": [],
+        "db_key": "squat / deadlift related low back pain"
+    },
+    "psoas myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "psoas myofascial pain syndrome"
+    },
+    "knee pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "knee pain"
+    },
+    "core related low back pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "core related low back pain"
+    },
+    "shoulder impingement - late stage recovery": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shoulder impingement - late stage recovery"
+    },
+    "rotator cuff tear - late stage recovery": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rotator cuff tear - late stage recovery"
+    },
+    "shoulder instability  - late stage recovery": {
+        "alias": [],
+        "acronyms": [
+            "dislocation / subluxation"
+        ],
+        "db_key": "shoulder instability  - late stage recovery"
+    },
+    "migraine": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "migraine"
+    },
+    "heel spur": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "heel spur"
+    },
+    "heel fat pad syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "heel fat pad syndrome"
+    },
+    "tmj irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tmj irritation"
+    },
+    "hamstrings tightness": {
+        "alias": [
+            "tension"
+        ],
+        "acronyms": [],
+        "db_key": "hamstrings tightness / tension"
+    },
+    "calves tightness": {
+        "alias": [
+            "tension"
+        ],
+        "acronyms": [],
+        "db_key": "calves tightness / tension"
+    },
+    "spinal hypomobility": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "spinal hypomobility"
+    },
+    "myofascial headaches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial headaches"
+    },
+    "myofascial pain syndrome of quadratus lumborum": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial pain syndrome of quadratus lumborum"
+    },
+    "front squat warm up": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "front squat warm up"
+    },
+    "patella alta": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "patella alta"
+    },
+    "femoroacetabular impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "femoroacetabular impingement"
+    },
+    "anterior glide syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior glide syndrome"
+    },
+    "long head biceps tendinitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "long head biceps tendinitis"
+    },
+    "toe joint sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "toe joint sprain"
+    },
+    "morton\u2019s neuroma": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "morton\u2019s neuroma"
+    },
+    "lisfranc injury": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lisfranc injury"
+    },
+    "radial nerve impingement": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "radial nerve impingement"
+    },
+    "brachial plexopathy, brachial plexus peripheral nerve compression": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "brachial plexopathy, brachial plexus peripheral nerve compression"
+    },
+    "cervicogenic headaches, tension headaches": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicogenic headaches, tension headaches"
+    },
+    "text neck, nerd neck": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "text neck, nerd neck"
+    },
+    "mcl tear, lcl tear": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "mcl tear, lcl tear"
+    },
+    "hip bursitis, greater trochanter bursitis": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip bursitis, greater trochanter bursitis"
+    },
+    "knocked knees, genu valgum": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "knocked knees, genu valgum"
+    },
+    "hip shift": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "hip shift"
+    },
+    "functional lumbar instability": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "functional lumbar instability"
+    },
+    "shin splints": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "shin splints"
+    },
+    "calves strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "calves strain"
+    },
+    "tibiotalar joint dysfunction": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tibiotalar joint dysfunction"
+    },
+    "deltoid strain, upper trapezius strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "deltoid strain, upper trapezius strain"
+    },
+    "cervicogenic headache, tension headache": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cervicogenic headache, tension headache"
+    },
+    "myofascial pain syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "myofascial pain syndrome"
+    },
+    "cam deformity": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "cam deformity"
+    },
+    "pincer grip deformity": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "pincer grip deformity"
+    },
+    "anterior femoral glide syndrome": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "anterior femoral glide syndrome"
+    },
+    "foot over pronation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "foot over pronation"
+    },
+    "tibialis anterior tendinopathy or strain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "tibialis anterior tendinopathy or strain"
+    },
+    "peroneal tendinopathy": {
+        "alias": [
+            "fibularis tendinopathy or strain"
+        ],
+        "acronyms": [],
+        "db_key": "peroneal tendinopathy / fibularis tendinopathy or strain"
+    },
+    "lateral ankle sprain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "lateral ankle sprain"
+    },
+    "costovertebral": {
+        "alias": [
+            "costotransverse joint irritation",
+            "rib joint irritation"
+        ],
+        "acronyms": [],
+        "db_key": "costovertebral / costotransverse joint irritation / rib joint irritation"
+    },
+    "costovertebral or costotransverse joint irritation": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "costovertebral or costotransverse joint irritation"
+    },
+    "rib pain": {
+        "alias": [],
+        "acronyms": [],
+        "db_key": "rib pain"
+    }
+}

@@ -1,0 +1,6 @@
+flask==2.2.5
+python-dotenv==1.0.0
+pymongo==4.4.1
+requests
+flask-cors
+pyopenssl

@@ -1,0 +1,8 @@
+openai==0.27.8
+python-dotenv==1.0.0
+apache-airflow==2.6.3
+pymongo==4.4.1
+tiktoken
+pytest
+rank_bm25==0.2.2
+nltk
