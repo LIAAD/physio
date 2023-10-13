@@ -44,22 +44,11 @@ When formulating its responses, Physio relies on and references the following we
 * [verywellhealth](www.verywellhealth.com)
 * [bupa.co](www.bupa.co.uk)
 
-### React Demo
+### How to Run Locally
 
-The project is built using Docker. Please ensure you are familiar with Docker before executing the commands below.
+1. Create a `.env` file in the directories [backend/airflow](backend/airflow/), [backend/flask](backend/flask/), and [frontend](frontend/) as specified in the `.env.example` files in each directory.
 
-### How to Run
-
-**Inside the frontend folder:**
-
-1. Create a `.env.local` file in the same directory as `.env.example`.
-
-2. Inside the `.env.local` file, specify the desired port number (e.g., 39872).
-
-3. Ensure that the port defined in the React service of your Docker Compose file matches the port specified in `.env.local`.
-
-4. Run `docker-compose up --build`.
-
+2. Run `docker-compose up --build`.
 
 ## Contributing
 
