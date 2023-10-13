@@ -5,7 +5,7 @@ from string import Template
 
 validate_input_template = Template(
     """You are an assistant in the treatment of patients with physical pain or discomfort.
-Your goal is to validate if the question is related to physical rehabilitation. 
+Your goal is to validate if the question is written in English and related to physical rehabilitation. 
 Return True in case it is and False otherwise.
 
 INPUT: $question

@@ -22,6 +22,13 @@ def test_validate_input_template_true():
     assert is_valid.lower() == "true"
 
 
+def test_validate_input_template_not_english():
+    question = "estou com dores nas costas."
+    prompt = validate_input_template.substitute(question=question)
+    is_valid = MODEL(prompt)
+    assert is_valid.lower() == "false"
+    
+
 def test_validate_input_template_false():
     question = "How are you today"
     is_valid = _inference(question, validate_input_template)
