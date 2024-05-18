@@ -274,6 +274,7 @@ services:
       - PYTHONUNBUFFERED=1
     build:
       context: ./backend/flask
+      dockerfile: prod.Dockerfile
     container_name: flask
     ports:
       - "39873:39873"    
@@ -285,11 +286,12 @@ services:
   react:
     build:
       context: ./frontend
+      dockerfile: prod.Dockerfile
     depends_on:
       - flask      
     container_name: react
     ports:
-      - "443:39872"         
+      - "8000:39872"         
     networks:
       - physio
     volumes:
